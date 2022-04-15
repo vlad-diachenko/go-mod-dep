@@ -2,6 +2,6 @@ package supra
 
 import "fmt"
 
-func say(word string) {
-	fmt.Println("word")
+func Say(word string) {
+	fmt.Println("mazafaka", word)
 }
